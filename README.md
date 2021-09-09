@@ -17,6 +17,7 @@ I created this project because of my passion in traveling. Though there are alre
 
 ## Files and Directories
 The following is the file hierarchy of my project. Default project files are ommitted.
+```
 `blog` - folder data for the blog part and whole text data.
     `__init___.py` - lets the Python interpreter know that a directory contains code for a Python module.
     `__pycache__` - stores temporary files created when execution of the python code is triggered.
@@ -51,8 +52,9 @@ The following is the file hierarchy of my project. Default project files are omm
     `templates` - templates for article.html, blog.html and post.html
     `urls.py` - includes all applications urls.
     `views.py` - contains all application views.
-    
+
 `README.md` - contains all the information for the user about the CS50W Project and its hierarchy files.
+```
 
 ## How to run the application
 
